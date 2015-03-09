@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FC0420D3-0345-4832-AB98-1EC4ADA633B2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0EE8900D0862349B233945A3329065EDC78DE53D</key>
+		<string>github.com:samwang0723/SwiftSlideMenu.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0EE8900D0862349B233945A3329065EDC78DE53D</key>
+		<string>SwiftSlideMenu/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:samwang0723/SwiftSlideMenu.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0EE8900D0862349B233945A3329065EDC78DE53D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0EE8900D0862349B233945A3329065EDC78DE53D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftSlideMenu</string>
+		</dict>
+	</array>
+</dict>
+</plist>
